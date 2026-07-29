@@ -1,7 +1,7 @@
 # 🤖 Ecosistema de Automatización IA Autónomo para Soporte B2B
 
 > **Entrega Final:** Proyecto Integrador de Automatización con IA  
-> **Arquitecto de Flujos:** [Tu Nombre y Apellido]  
+> **Arquitecto de Flujos:** : Cecilia Ayala
 > **Estado del Proyecto:** 🟢 En Producción (100% Funcional con HITL y Resiliencia)
 
 ---
@@ -23,48 +23,13 @@ El sistema intercepta solicitudes mediante un Webhook de entrada, valida los dat
          ▼                                                            ▼               ▼
 [ Actualizar a Enviado ]                                     [ Formatear Resp. ]  [ Alerta de Error ]
 
-Aquí tienes la plantilla de `README.md` **completa, profesional y adaptada a la consigna**.
-
-Solo debes copiar este bloque en formato Markdown, reemplazar los textos entre corchetes `[como este]` con tus enlaces/rutas reales, e incluirlo directamente en tu archivo **`README.md`** en GitHub.
-
----
-
-```markdown
-# 🤖 Ecosistema de Automatización IA Autónomo para Soporte B2B
-
-> **Entrega Final:** Proyecto Integrador de Automatización con IA  
-> **Arquitecto de Flujos:** [Tu Nombre y Apellido]  
-> **Estado del Proyecto:** 🟢 En Producción (100% Funcional con HITL y Resiliencia)
-
----
-
-## 📌 Descripción del Proyecto
-
-Este ecosistema resuelve de extremo a extremo la **atención y resolución de tickets de soporte técnico y facturación B2B**. 
-
-El sistema intercepta solicitudes mediante un Webhook de entrada, valida los datos del cliente en **Airtable**, clasifica la urgencia y genera una respuesta profesional utilizando un **Modelo de Lenguaje (LLM)**. Para prevenir el *"Efecto Metralleta"* y garantizar la seguridad de la comunicación, el flujo implementa un punto de **validación humana (Human-in-the-Loop)** antes de enviar la respuesta final vía **Gmail**.
-
----
-
-## 🏗️ Arquitectura del Sistema
-
-
-```
-
-[ Webhook Entrada ] ──► [ Validar Datos ] ──► [ Buscar Cliente ] ──► [ Registrar Entrada ]
-│
-▼
-[ Responder a Cliente ] ◄── [ Esperar Aprobación (HITL) ] ◄── [ Guardar Borrador ] ◄── [ Agente de IA ]
-│                                                            │ (Éxito)       │ (Error)
-▼                                                            ▼               ▼
-[ Actualizar a Enviado ]                                     [ Formatear Resp. ]  [ Alerta de Error ]
 
 ```
 
 ### 🧩 Componentes y Stack Tecnológico
 * **Orquestador Principal:** `n8n`
 * **Base de Datos / Memoria:** `Airtable` (Tablas vinculadas: *Clientes* y *Tickets*)
-* **Motor de Razonamiento (LLM):** `Groq` (`llama-3.3-70b-versatile`) / `Google Gemini`
+* **Motor de Razonamiento (LLM):** `Groq` (`llama-3.3-70b-versatile`) 
 * **Canal de Salida / Notificaciones:** `Gmail` (Notificación de aprobación + Respuesta al cliente)
 
 ---
@@ -82,19 +47,15 @@ El sistema intercepta solicitudes mediante un Webhook de entrada, valida los dat
 | Tarea / Nodo | Modelo Seleccionado | Razón Técnica | Ahorro Estimado |
 | :--- | :--- | :--- | :--- |
 | **Clasificación y Redacción** | `Llama-3.3-70b` (Groq Cloud) | Alta velocidad de inferencia, excelente sintaxis en español y costo $0. | **100% de Ahorro** (Tier Gratuito). |
-| **Casos Complejos / Análisis Denso**| `Claude 3.5 Sonnet` / `GPT-4o` | Razonamiento avanzado para contratos o análisis contextual profundo. | Pago por consumo puntual. |
-| **Procesamiento Masivo Histórico** | `OpenAI Batch API` | Procesamiento asíncrono para análisis nocturno de tickets. | **50% de Descuento** en tokens. |
-
 ---
 
-## 🔗 Enlaces Obligatorios de la Entrega
+## 🔗 Enlaces 
 
-* 📊 **Dashboard de Control (Airtable Shared View):** [Pega aquí tu enlace público de Airtable]
-* 🗄️ **Base de Datos en Modo Lectura:** [Pega aquí tu enlace de lectura a Airtable]
-* 🎥 **Video Demo de Funcionamiento (3 min):** [Pega aquí el enlace a Loom / YouTube]
-* 📄 **Documentación Técnica PDF:** [`Documentacion_Tecnica_Ecosistema_IA.pdf`](./Documentacion_Tecnica_Ecosistema_IA.pdf)
-* ⚙️ **Workflow Exportado:** [`workflow_n8n.json`](./workflow_n8n.json)
-
+* 📊 **Dashboard de Control (Airtable Shared View):** 
+* 🗄️ **Base de Datos en Modo Lectura:** 
+* 🎥 **Video Demo de Funcionamiento (3 min):** 
+* 📄 **Documentación Técnica PDF:** 
+* ⚙️ **Workflow Exportado:**
 ---
 
 ## 🖼️ Evidencias de Ejecución
