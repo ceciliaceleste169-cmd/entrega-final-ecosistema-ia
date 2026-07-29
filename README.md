@@ -1,5 +1,9 @@
 
 
+
+
+
+
 # 🤖 Ecosistema de Automatización IA Autónomo para Soporte B2B
 
 > **Entrega Final:** Proyecto Integrador de Automatización con IA
@@ -53,7 +57,7 @@ Procesamiento Masivo Histórico,OpenAI Batch API,Procesamiento asíncrono para a
 
 * 📊 **Dashboard de Control (Airtable Shared View):**
 * 🗄️ **Base de Datos en Modo Lectura:** 
-* 🎥 **Video Demo de Funcionamiento 
+* 🎥 **Video Demo de Funcionamiento https://drive.google.com/file/d/1Oo2A1C4shbeKLHYBMgSw6coeT2UA4r0A/view?usp=sharing
 * 📄 **Documentación Técnica PDF:**
 * ⚙️ **Workflow Exportado:** 
 ---
