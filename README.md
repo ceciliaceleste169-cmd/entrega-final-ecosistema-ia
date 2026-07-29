@@ -55,11 +55,11 @@ Procesamiento Masivo Histórico,OpenAI Batch API,Procesamiento asíncrono para a
 
 ## 🔗 Enlaces Obligatorios de la Entrega
 
-* 📊 **Dashboard de Control (Airtable Shared View):**
-* 🗄️ **Base de Datos en Modo Lectura:** [https://airtable.com/invite/l?inviteId=invOrzw8LJ7Tf3Ett&inviteToken=2da473fb40b7ebfe921d3ceca2384b24416ad62da3306f990141338434894eb9&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts](https://airtable.com/appP4OVp4EV87OloH/tblltPWDG18qcSAWU/viwUQi22v4AZvABpp?blocks=hide#:~:text=https%3A//airtable.com/appP4OVp4EV87OloH/shrj2WeUKg25v4w57)
-* 🎥 **Video Demo de Funcionamiento https://drive.google.com/file/d/1Oo2A1C4shbeKLHYBMgSw6coeT2UA4r0A/view?usp=sharing
-* 📄 **Documentación Técnica PDF:**
-* ⚙️ **Workflow Exportado:** 
+* 📊 **Dashboard de Control (Airtable Shared View):** [Ver Dashboard en Airtable](https://airtable.com/appP4OVp4EV87OloH/shrj2WeUKg25v4w57)
+* 📱 **Base de Datos en Modo Lectura:** [Ver Base de Datos](https://airtable.com/appP4OVp4EV87OloH/shrj2WeUKg25v4w57)
+* 🎥 **Video Demostración de Funcionamiento:** [Ver Video en Google Drive](https://drive.google.com/file/d/1Oo2A1C4shbeKLHYBMgSw6coeT2UA4r0A/view?usp=sharing)
+* 📄 **Documentación Técnica PDF:** [Documentacion_Tecnica.pdf](./DocumentacionTecnica.pdf)
+* ⚙️ **Flujo de trabajo exportado (JSON):** [Mi flujo de trabajo 2.json](./Miflujodetrabajo.json)
 ---
 
 ## 🖼️ Evidencias de Ejecución
