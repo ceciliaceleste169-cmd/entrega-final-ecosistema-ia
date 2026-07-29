@@ -43,10 +43,10 @@ El sistema intercepta solicitudes mediante un Webhook de entrada, valida los dat
 
 ## 📊 Matriz de Optimización de Costos
 
-| Tarea / Nodo | Modelo Seleccionado | Razón Técnica | Ahorro Estimado |
-| --- | --- | --- | --- |
-| **Clasificación y Redacción** | `Llama-3.3-70b` (Groq Cloud) | Alta velocidad de inferencia, excelente sintaxis en español y costo $0. | **100% de Ahorro** (Tier Gratuito). |
-
+Tarea / Nodo,Modelo Seleccionado,Razón Técnica,Ahorro Estimado
+Clasificación y Redacción,Llama-3.3-70b (Groq Cloud),"Alta velocidad de inferencia, excelente sintaxis en español y costo $0.",100% de Ahorro (Tier Gratuito).
+Casos Complejos / Análisis Denso,Claude 3.5 Sonnet / GPT-4o,Razonamiento avanzado para contratos o análisis contextual profundo.,Pago por consumo puntual.
+Procesamiento Masivo Histórico,OpenAI Batch API,Procesamiento asíncrono para análisis nocturno de tickets.,50% de Descuento en tokens.
 ---
 
 ## 🔗 Enlaces Obligatorios de la Entrega
