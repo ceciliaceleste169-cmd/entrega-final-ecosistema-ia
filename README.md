@@ -3,7 +3,7 @@
 # 🤖 Ecosistema de Automatización IA Autónomo para Soporte B2B
 
 > **Entrega Final:** Proyecto Integrador de Automatización con IA
-> **Arquitecto de Flujos:** [Tu Nombre y Apellido]
+> **Arquitecto de Flujos:** : Cecilia Ayala
 > **Estado del Proyecto:** 🟢 En Producción (100% Funcional con HITL y Resiliencia)
 
 ---
@@ -46,19 +46,16 @@ El sistema intercepta solicitudes mediante un Webhook de entrada, valida los dat
 | Tarea / Nodo | Modelo Seleccionado | Razón Técnica | Ahorro Estimado |
 | --- | --- | --- | --- |
 | **Clasificación y Redacción** | `Llama-3.3-70b` (Groq Cloud) | Alta velocidad de inferencia, excelente sintaxis en español y costo $0. | **100% de Ahorro** (Tier Gratuito). |
-| **Casos Complejos / Análisis Denso** | `Claude 3.5 Sonnet` / `GPT-4o` | Razonamiento avanzado para contratos o análisis contextual profundo. | Pago por consumo puntual. |
-| **Procesamiento Masivo Histórico** | `OpenAI Batch API` | Procesamiento asíncrono para análisis nocturno de tickets. | **50% de Descuento** en tokens. |
 
 ---
 
 ## 🔗 Enlaces Obligatorios de la Entrega
 
-* 📊 **Dashboard de Control (Airtable Shared View):** [Pega aquí tu enlace público de Airtable]
-* 🗄️ **Base de Datos en Modo Lectura:** [Pega aquí tu enlace de lectura a Airtable]
-* 🎥 **Video Demo de Funcionamiento (3 min):** [Pega aquí el enlace a Loom / YouTube]
-* 📄 **Documentación Técnica PDF:** [`Documentacion_Tecnica_Ecosistema_IA.pdf`](https://www.google.com/search?q=./Documentacion_Tecnica_Ecosistema_IA.pdf)
-* ⚙️ **Workflow Exportado:** [`workflow_n8n.json`](https://www.google.com/search?q=./workflow_n8n.json)
-
+* 📊 **Dashboard de Control (Airtable Shared View):**
+* 🗄️ **Base de Datos en Modo Lectura:** 
+* 🎥 **Video Demo de Funcionamiento 
+* 📄 **Documentación Técnica PDF:**
+* ⚙️ **Workflow Exportado:** 
 ---
 
 ## 🖼️ Evidencias de Ejecución
