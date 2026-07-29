@@ -53,13 +53,15 @@ Casos Complejos / Análisis Denso,Claude 3.5 Sonnet / GPT-4o,Razonamiento avanza
 Procesamiento Masivo Histórico,OpenAI Batch API,Procesamiento asíncrono para análisis nocturno de tickets.,50% de Descuento en tokens.
 ---
 
-## 🔗 Enlaces Obligatorios de la Entrega
+## 🔗 Enlaces 
 
 * 📊 **Dashboard de Control (Airtable Shared View):** [Ver Dashboard en Airtable](https://airtable.com/appP4OVp4EV87OloH/shrj2WeUKg25v4w57)
 * 📱 **Base de Datos en Modo Lectura:** [Ver Base de Datos](https://airtable.com/appP4OVp4EV87OloH/shrj2WeUKg25v4w57)
 * * 🎥 **Video Demostración de Funcionamiento:** [Ver Video Demostrativo](https://drive.google.com/file/d/1dn2PAetDfGnG8MFQLPY7ANUsNpGxktpq/view?usp=sharing)
 * 📄 **Documentación Técnica PDF:** [Documentacion_Tecnica.pdf](./Documentacion_Tecnica.pdf)
 * ⚙️ **Flujo de trabajo exportado (JSON):** [n8n.json](./n8n.json)
+* 🎥 **Video Demostración de Funcionamiento:** [Ver Video en YouTube](https://youtu.be/-jABxnnrIv0)
+
 ---
 
 ## 🖼️ Evidencias de Ejecución
