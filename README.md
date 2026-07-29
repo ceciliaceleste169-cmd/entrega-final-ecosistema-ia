@@ -56,7 +56,7 @@ Procesamiento Masivo Histórico,OpenAI Batch API,Procesamiento asíncrono para a
 ## 🔗 Enlaces Obligatorios de la Entrega
 
 * 📊 **Dashboard de Control (Airtable Shared View):**
-* 🗄️ **Base de Datos en Modo Lectura:** 
+* 🗄️ **Base de Datos en Modo Lectura:** https://airtable.com/invite/l?inviteId=invOrzw8LJ7Tf3Ett&inviteToken=2da473fb40b7ebfe921d3ceca2384b24416ad62da3306f990141338434894eb9&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
 * 🎥 **Video Demo de Funcionamiento https://drive.google.com/file/d/1Oo2A1C4shbeKLHYBMgSw6coeT2UA4r0A/view?usp=sharing
 * 📄 **Documentación Técnica PDF:**
 * ⚙️ **Workflow Exportado:** 
